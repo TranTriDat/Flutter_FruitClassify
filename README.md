@@ -17,12 +17,12 @@ samples, guidance on mobile development, and a full API reference.
 # Flutter_FruitClassify
 # Flutter_FruitClassify
 
-These images below are the example about the android application:
-Banana prediction.
+These images below are the example about the android application:</br>
+Banana prediction:</br>
 ![banana](assets/banana.jpg)
 
-Apple prediction.
+Apple prediction:</br>
 ![apple](assets/Apple.jpg)
 
-Pomegranate prediction.
+Pomegranate prediction:</br>
 ![poem](assets/pome.jpg)
