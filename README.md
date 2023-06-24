@@ -16,3 +16,6 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 # Flutter_FruitClassify
 # Flutter_FruitClassify
+
+These images below are the example about the android application:
+![banana]["assets.banana.jpg"]
